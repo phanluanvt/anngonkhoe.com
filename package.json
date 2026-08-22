@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node -r ./ads-enhancer.js -r ./voice-enhancer.js -r ./recipe-enhancer.js -r ./tools-enhancer.js server.js"
+    "start": "node -r ./ads-enhancer.js -r ./voice-enhancer.js -r ./recipe-enhancer.js -r ./tools-enhancer.js -r ./advanced-tools.js server.js"
   }
 }
