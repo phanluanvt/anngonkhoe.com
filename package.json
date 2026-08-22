@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node launcher.js"
+    "start": "node server.js"
   }
 }
